@@ -1,0 +1,40 @@
+body {background-color:black;font-family:arial;color:black}
+h1{
+    color:black;
+    font-family:verdana}
+.maindiv {
+    background-color:white;
+    width: 600px;
+    height: 700px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align:center;
+    margin: auto;
+    font-size: 25px;
+    font-weight: 600;
+    
+    
+} 
+.maindiv .container{
+    display: flex;
+    padding-bottom: 50px;
+    justify-content: center;
+    
+    
+}
+
+#principal{
+    width:70px;
+    padding-bottom: 5px;
+    font-size: 25px;
+    font-weight: 600;
+} 
+#years{
+    
+    font-size: 25px;
+    font-weight: 600;
+}
+button{
+    font-size: 25px;
+    font-weight: 600;
+}
